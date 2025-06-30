@@ -11,6 +11,9 @@
           <span>Mobil</span>
           <span>Peralatan Otomatisasi</span>
           <span>Transportasi rel</span>
+          <br/>
+          <span>Muhammad Ridwan Kamil</span>
+          <span>muhammad.ridwan.kamil@***.com</span>
         </div>
       </div>
     </div>
@@ -24,6 +27,9 @@
           <span>Peralatan medis</span>
           <span>Layanan medis</span>
           <span>Kedokteran Klinis</span>
+          <br/>
+          <span>Dewi Lestari</span>
+          <span>dewi.lestari@***.com</span>
         </div>
       </div>
     </div>
@@ -35,9 +41,11 @@
         <div class="trade-info">
           <span>Penyelesaian perselisihan</span>
           <span>Hak kekayaan intelektual</span>
-          <!-- <span>Modal Berusaha/Investasi Swasta</span> -->
           <span>Merdekasi/Reorganisasi</span>
           <span>Hukum Kerja</span>
+          <br/>
+          <span>Putri Ayu Dewi</span>
+          <span>putri.ayu.dewi@***.com</span>
         </div>
       </div>
     </div>
@@ -52,6 +60,9 @@
           <span>Internet Hal</span>
           <span>Permainan</span>
           <span>Keuangan Internet</span>
+          <br/>
+          <span>Siti Nurhaliza</span>
+          <span>siti.nurhaliza@***.com</span>
         </div>
       </div>
     </div>
@@ -66,10 +77,13 @@
           <span>Asuransi</span>
           <span>Teknologi Keuangan</span>
           <span>Dana Sekuritas</span>
+          <br/>
+          <span>Rizki Pratama</span>
+          <span>rizki.pratama@***.com</span>
         </div>
       </div>
     </div>
-    <el-divider>
+    <!-- <el-divider>
       <div class="title">Fungsi Perusahaan</div>
     </el-divider>
     <div class="trade-bg-box">
@@ -82,7 +96,7 @@
           <span>administrasi</span>
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
 </template>
 <script>
@@ -139,16 +153,16 @@ export default {
     rgba(255, 255, 255, 0.1)
   );
   text-align: center;
-  padding-top: 80px;
-  opacity: 0;
+  padding-top: 70px;
+  /* opacity: 0; */
 }
 .trade-bg-box .trade-bg .trade-info span {
   margin: 0 10px;
   font-size: 22px;
   color: #333;
 }
-.trade-bg-box .trade-bg:hover .trade-info {
+/* .trade-bg-box .trade-bg:hover .trade-info {
   transition: opacity 0.3s linear;
   opacity: 1;
-}
+} */
 </style>

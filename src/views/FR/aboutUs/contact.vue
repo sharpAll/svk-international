@@ -11,9 +11,9 @@
         <div class="box-item">
           <div class="icon icon-1"></div>
           <div class="info">
-            <div class="info-title">Rekrutmen Perusahaan</div>
+            <div class="info-title">Kerjasama perusahaan</div>
             <p>
-              <span class="red">olivia_kong@careerhighlandinternational.com</span>
+              <span class="red">muhammad.ridwan.kamil@***.com</span>
             </p>
           </div>
         </div>
@@ -22,7 +22,7 @@
           <div class="info">
             <div class="info-title">Pencarian pekerjaan pribadi</div>
             <p>
-              Silakan kirimkan resume Anda ke <span class="red">peter_chen@careerhighlandinternational.com</span> Jika ada posisi yang tepat, pemburu industri yang sesuai akan menghubungi Anda secara langsung.
+              Silakan kirimkan resume Anda ke <span class="red">dewi.lestari@***.com</span> Jika ada posisi yang tepat, pemburu industri yang sesuai akan menghubungi Anda secara langsung.
             </p>
           </div>
         </div>
@@ -31,7 +31,7 @@
           <div class="info">
             <div class="info-title">Bergabunglah dengan kami</div>
             <p>
-             Jika Anda ingin bergabung dengan SVK, hubungi <span class="red">+852 5986 3808 (HK)</span> untuk informasi lebih lanjut.
+             Jika Anda ingin bergabung dengan SVK, hubungi <span class="red">putri.ayu.dewi@***.com</span> untuk informasi lebih lanjut.
             </p>
           </div>
         </div>

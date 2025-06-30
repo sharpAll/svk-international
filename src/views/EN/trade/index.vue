@@ -11,6 +11,9 @@
           <span>Automotive</span>
           <span>Automation</span>
           <span>Rail Transport</span>
+          <br/>
+          <span>Muhammad Ridwan Kamil</span>
+          <span>muhammad.ridwan.kamil@***.com</span>
         </div>
       </div>
     </div>
@@ -25,6 +28,9 @@
           <span>Hospital</span>
           <span>Diagnostic</span>
           <span>Investment</span>
+          <br/>
+          <span>Dewi Lestari</span>
+          <span>dewi.lestari@***.com</span>
         </div>
       </div>
     </div>
@@ -39,6 +45,9 @@
           <span>VC/PE</span>
           <span>M&A</span>
           <span>Labor Law</span>
+          <br/>
+          <span>Putri Ayu Dewi</span>
+          <span>putri.ayu.dewi@***.com</span>
         </div>
       </div>
     </div>
@@ -53,6 +62,9 @@
           <span>IOT</span>
           <span>Game</span>
           <span>ITFIN</span>
+          <br/>
+          <span>Siti Nurhaliza</span>
+          <span>siti.nurhaliza@***.com</span>
         </div>
       </div>
     </div>
@@ -67,10 +79,13 @@
           <span>Insurance</span>
           <span>FinTech</span>
           <span>Funding</span>
+          <br/>
+          <span>Rizki Pratama</span>
+          <span>rizki.pratama@***.com</span>
         </div>
       </div>
     </div>
-    <el-divider>
+    <!-- <el-divider>
       <div class="title">Corporate Functions</div>
     </el-divider>
     <div class="trade-bg-box">
@@ -83,7 +98,7 @@
           <span>Administration</span>
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
 </template>
 <script>
@@ -140,16 +155,16 @@ export default {
     rgba(255, 255, 255, 0.1)
   );
   text-align: center;
-  padding-top: 80px;
-  opacity: 0;
+  padding-top: 70px;
+  /* opacity: 0; */
 }
 .trade-bg-box .trade-bg .trade-info span {
   margin: 0 10px;
   font-size: 22px;
   color: #333;
 }
-.trade-bg-box .trade-bg:hover .trade-info {
+/* .trade-bg-box .trade-bg:hover .trade-info {
   transition: opacity 0.3s linear;
   opacity: 1;
-}
+} */
 </style>

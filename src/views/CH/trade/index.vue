@@ -11,6 +11,9 @@
           <span>汽车</span>
           <span>自动化装备</span>
           <span>轨道交通</span>
+          <br/>
+          <span>Muhammad Ridwan Kamil</span>
+          <span>muhammad.ridwan.kamil@***.com</span>
         </div>
       </div>
     </div>
@@ -25,6 +28,9 @@
           <span>医疗服务</span>
           <span>临床医学</span>
           <span>大健康项目投资</span>
+          <br/>
+          <span>Dewi Lestari</span>
+          <span>dewi.lestari@***.com</span>
         </div>
       </div>
     </div>
@@ -39,6 +45,9 @@
           <span>风投/私募</span>
           <span>并购/重组</span>
           <span>劳动法</span>
+          <br/>
+          <span>Putri Ayu Dewi</span>
+          <span>putri.ayu.dewi@***.com</span>
         </div>
       </div>
     </div>
@@ -53,6 +62,9 @@
           <span>物联网</span>
           <span>游戏</span>
           <span>互联网金融</span>
+          <br/>
+          <span>Siti Nurhaliza</span>
+          <span>siti.nurhaliza@***.com</span>
         </div>
       </div>
     </div>
@@ -67,10 +79,13 @@
           <span>保险</span>
           <span>金融科技</span>
           <span>基金证券</span>
+          <br/>
+          <span>Rizki Pratama</span>
+          <span>rizki.pratama@***.com</span>
         </div>
       </div>
     </div>
-    <el-divider>
+    <!-- <el-divider>
       <div class="title">企业职能</div>
     </el-divider>
     <div class="trade-bg-box">
@@ -83,7 +98,7 @@
           <span>行政</span>
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
 </template>
 <script>
@@ -140,16 +155,16 @@ export default {
     rgba(255, 255, 255, 0.1)
   );
   text-align: center;
-  padding-top: 80px;
-  opacity: 0;
+  padding-top: 70px;
+  /* opacity: 0; */
 }
 .trade-bg-box .trade-bg .trade-info span {
   margin: 0 10px;
   font-size: 22px;
   color: #333;
 }
-.trade-bg-box .trade-bg:hover .trade-info {
+/* .trade-bg-box .trade-bg:hover .trade-info {
   transition: opacity 0.3s linear;
   opacity: 1;
-}
+} */
 </style>

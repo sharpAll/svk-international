@@ -12,11 +12,9 @@
         <div class="box-item">
           <div class="icon icon-1"></div>
           <div class="info">
-            <div class="info-title">Enterprise recruitment</div>
+            <div class="info-title">Enterprise Cooperation</div>
             <p>
-              <span class="red"
-                >olivia_kong@careerhighlandinternational.com</span
-              >
+              <span class="red">muhammad.ridwan.kamil@***.com</span>
             </p>
           </div>
         </div>
@@ -26,8 +24,8 @@
             <div class="info-title">Personal Job Seeker</div>
             <p>
               Please send your CV to
-              <span class="red">peter_chen@careerhighlandinternational.com</span
-              >,if there is a suitable post for you, the hunter will contact you
+              <span class="red">dewi.lestari@***.com</span>
+              ,if there is a suitable post for you, the hunter will contact you
               directly.
             </p>
           </div>
@@ -37,10 +35,10 @@
           <div class="info">
             <div class="info-title">Join us</div>
             <p>
-              If you want to join SVK, please dial
+              If you want to join SVK, please contact
               <!-- <span class="red">+852 5986 3808 (HK)</span> or
               <span class="red">+86 151 6718 2110 (Shanghai)</span> for more -->
-              <span class="red">+852 5986 3808 (HK)</span>
+              <span class="red">putri.ayu.dewi@***.com</span>
               details.
             </p>
           </div>
