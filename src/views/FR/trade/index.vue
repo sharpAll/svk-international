@@ -13,7 +13,7 @@
           <span>Transportasi rel</span>
           <br/>
           <span>Muhammad Ridwan Kamil</span>
-          <span>muhammad.ridwan.kamil@***.com</span>
+          <span>muhammad.ridwan.kamil@svk-idn.com</span>
         </div>
       </div>
     </div>
@@ -29,7 +29,7 @@
           <span>Kedokteran Klinis</span>
           <br/>
           <span>Dewi Lestari</span>
-          <span>dewi.lestari@***.com</span>
+          <span>dewi.lestari@svk-idn.com</span>
         </div>
       </div>
     </div>
@@ -45,7 +45,7 @@
           <span>Hukum Kerja</span>
           <br/>
           <span>Putri Ayu Dewi</span>
-          <span>putri.ayu.dewi@***.com</span>
+          <span>putri.ayu.dewi@svk-idn.com</span>
         </div>
       </div>
     </div>
@@ -62,7 +62,7 @@
           <span>Keuangan Internet</span>
           <br/>
           <span>Siti Nurhaliza</span>
-          <span>siti.nurhaliza@***.com</span>
+          <span>siti.nurhaliza@svk-idn.com</span>
         </div>
       </div>
     </div>
@@ -79,7 +79,7 @@
           <span>Dana Sekuritas</span>
           <br/>
           <span>Rizki Pratama</span>
-          <span>rizki.pratama@***.com</span>
+          <span>rizki.pratama@svk-idn.com</span>
         </div>
       </div>
     </div>

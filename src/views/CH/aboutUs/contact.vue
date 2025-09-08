@@ -13,7 +13,7 @@
           <div class="info">
             <div class="info-title">企业合作</div>
             <p>
-              <span class="red">muhammad.ridwan.kamil@***.com</span>
+              <span class="red">muhammad.ridwan.kamil@svk-idn.com</span>
             </p>
           </div>
         </div>
@@ -23,7 +23,7 @@
             <div class="info-title">个人求职</div>
             <p>
               请发送您的简历到
-              <span class="red">dewi.lestari@***.com</span
+              <span class="red">dewi.lestari@svk-idn.com</span
               >，如有合适岗位，相应的行业猎头直接与您联系
             </p>
           </div>
@@ -36,7 +36,7 @@
               如果您想加入SVK，请联系
               <!-- <span class="red">+852 5986 3808 (HK)</span> 或
               <span class="red">+86 151 6718 2110 (Shanghai)</span> -->
-              <span class="red">putri.ayu.dewi@***.com</span>
+              <span class="red">putri.ayu.dewi@svk-idn.com</span>
               获取更多详细信息。
             </p>
           </div>

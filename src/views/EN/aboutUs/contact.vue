@@ -14,7 +14,7 @@
           <div class="info">
             <div class="info-title">Enterprise Cooperation</div>
             <p>
-              <span class="red">muhammad.ridwan.kamil@***.com</span>
+              <span class="red">muhammad.ridwan.kamil@svk-idn.com</span>
             </p>
           </div>
         </div>
@@ -24,7 +24,7 @@
             <div class="info-title">Personal Job Seeker</div>
             <p>
               Please send your CV to
-              <span class="red">dewi.lestari@***.com</span>
+              <span class="red">dewi.lestari@svk-idn.com</span>
               ,if there is a suitable post for you, the hunter will contact you
               directly.
             </p>
@@ -38,7 +38,7 @@
               If you want to join SVK, please contact
               <!-- <span class="red">+852 5986 3808 (HK)</span> or
               <span class="red">+86 151 6718 2110 (Shanghai)</span> for more -->
-              <span class="red">putri.ayu.dewi@***.com</span>
+              <span class="red">putri.ayu.dewi@svk-idn.com</span>
               details.
             </p>
           </div>

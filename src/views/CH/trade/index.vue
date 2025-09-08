@@ -13,7 +13,7 @@
           <span>轨道交通</span>
           <br/>
           <span>Muhammad Ridwan Kamil</span>
-          <span>muhammad.ridwan.kamil@***.com</span>
+          <span>muhammad.ridwan.kamil@svk-idn.com</span>
         </div>
       </div>
     </div>
@@ -30,7 +30,7 @@
           <span>大健康项目投资</span>
           <br/>
           <span>Dewi Lestari</span>
-          <span>dewi.lestari@***.com</span>
+          <span>dewi.lestari@svk-idn.com</span>
         </div>
       </div>
     </div>
@@ -47,7 +47,7 @@
           <span>劳动法</span>
           <br/>
           <span>Putri Ayu Dewi</span>
-          <span>putri.ayu.dewi@***.com</span>
+          <span>putri.ayu.dewi@svk-idn.com</span>
         </div>
       </div>
     </div>
@@ -64,7 +64,7 @@
           <span>互联网金融</span>
           <br/>
           <span>Siti Nurhaliza</span>
-          <span>siti.nurhaliza@***.com</span>
+          <span>siti.nurhaliza@svk-idn.com</span>
         </div>
       </div>
     </div>
@@ -81,7 +81,7 @@
           <span>基金证券</span>
           <br/>
           <span>Rizki Pratama</span>
-          <span>rizki.pratama@***.com</span>
+          <span>rizki.pratama@svk-idn.com</span>
         </div>
       </div>
     </div>
