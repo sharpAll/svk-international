@@ -12,7 +12,7 @@
       <span class="divider-title">社会研究 & 公共政策</span>
     </el-divider>
     <div class="divider-info">
-      Satu Visi Konsultan通过严谨的研究和评估，为更有效的公共政策和社会变革提供证据基础。为决策者赋能，以数据驱动的方式改善社会成果。
+      共同愿景咨询（Satu Visi Konsultan）通过严谨的研究和评估，为更有效的公共政策和社会变革提供证据基础。为决策者赋能，以数据驱动的方式改善社会成果。
     </div>
     <div class="center-box">
       <el-row :gutter="20">
